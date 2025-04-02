@@ -1,17 +1,42 @@
-# 🧠 Projetos_IA
+# Projetos IA
 
-Este repositório reúne aplicações de Inteligência Artificial desenvolvidas por mim, com foco em aprendizado prático, soluções automatizadas e agentes inteligentes.
+Este repositório reúne projetos práticos de **Inteligência Artificial (IA)** desenvolvidos por **Rodrigo Ribeiro Carvalho**, com foco em automação, agentes inteligentes e soluções reais aplicadas ao atendimento via WhatsApp, análise de linguagem natural e integração com APIs.
 
-Aqui você encontrará projetos com diferentes abordagens de IA, como:
-- Redes neurais simples
-- Bots integrados ao WhatsApp
-- Automação com memória
-- Projetos com foco em serviços reais (secretárias virtuais, agendamentos etc.)
-
-Cada subpasta representa um projeto independente, com seu próprio código, documentação e arquivos associados.
+Cada subpasta representa um projeto funcional, com códigos comentados, README explicativo, imagens e links de demonstração.
 
 ---
 
-**Confira também a página interativa dos projetos:**
+## 🧠 Projetos incluídos
 
-[🧠 Acessar página interativa](https://rodrigo-rrc.github.io/Projetos_IA/)
+### 🤖 [Agente Inteligente WhatsApp (GPT-2)](./agente-inteligente-whatsapp)
+Agente baseado em modelo GPT-2, capaz de interagir via WhatsApp utilizando linguagem natural. Projeto inclui integração com FastAPI, UltraMsg e ngrok. Foco em simular um atendimento automatizado inteligente.
+
+### 🩺 [Secretária Inteligente para Médicos (em construção)](./secretaria-inteligente)
+Agente IA com foco em automatizar o atendimento de clínicas e consultórios médicos. Realiza agendamentos, confirmações por mensagem e respostas a perguntas frequentes.
+
+---
+
+## 🎯 Sobre este repositório
+
+Este repositório foi estruturado com foco em:
+
+- Aplicações práticas de IA voltadas ao mercado
+- Integração de APIs com Python, FastAPI e serviços externos
+- Robôs com respostas realistas e personalizadas
+- Facilidade para replicar e adaptar os projetos para outros nichos
+
+---
+
+## 👤 Sobre o autor
+
+**Rodrigo Ribeiro Carvalho**  
+Corretor de imóveis em transição de carreira para a área de dados e tecnologia. Estudante de Ciência de Dados pela UNINTER, com formação complementar em Análise de Dados pelo Google/Coursera. Também desenvolve projetos com Python, Power BI e Inteligência Artificial.
+
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)
+- [Portfólio completo](https://github.com/Rodrigo-RRC)
+
+---
+
+🔙 [Voltar para os projetos IA no GitHub Pages](https://rodrigorrc.github.io/Projetos_IA)
+
+📌 *Última atualização: Abril de 2025*
