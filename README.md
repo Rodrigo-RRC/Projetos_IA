@@ -37,6 +37,6 @@ Corretor de imóveis em transição de carreira para a área de dados e tecnolog
 
 ---
 
-🔙 [Voltar para os projetos IA no GitHub Pages](https://rodrigorrc.github.io/Projetos_IA)
+
 
 📌 *Última atualização: Abril de 2025*
