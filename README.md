@@ -11,19 +11,19 @@ São soluções voltadas à automação, construção de agentes inteligentes e 
 
 ## 🧠 Projetos incluídos
 
-### 🤖 Agente Inteligente WhatsApp  
+### <span style="color:#0066cc; font-weight:bold">🤖 Agente Inteligente WhatsApp</span>  
 Criação de agente inteligente com memória e integração ao WhatsApp sem custo algum, utilizando GPT-2, FastAPI e UltraMsg.
 
-### 🧾 Corretor Inteligente *(em construção)*  
+### <span style="color:#009999; font-weight:bold">🧾 Corretor Inteligente *(em construção)*</span>  
 Agente voltado para corretores de imóveis. Oferece respostas automatizadas, filtros de atendimento e integração futura com APIs de CRM.
 
-### 🧬 Neurônio de Rosenblatt  
+### <span style="color:#cc6600; font-weight:bold">🧬 Neurônio de Rosenblatt</span>  
 Implementação clássica do Perceptron de Rosenblatt. Ideal para demonstrar classificação binária com fronteira linear em Python.
 
-### 🩺 Secretária Inteligente *(em construção)*  
+### <span style="color:#990000; font-weight:bold">🩺 Secretária Inteligente *(em construção)*</span>  
 Assistente virtual que agenda consultas e serviços automaticamente. Foco em atendimento para clínicas, com base em regras e comandos estruturados.
 
-### 🧪 Agente Inteligente Básico  
+### <span style="color:#9933cc; font-weight:bold">🧪 Agente Inteligente Básico</span>  
 Versão simplificada de agente inteligente, criada em Jupyter Notebook. Ótima introdução para protótipos e lógica condicional de bots.
 
 ---
@@ -42,7 +42,7 @@ Versão simplificada de agente inteligente, criada em Jupyter Notebook. Ótima i
 Sou corretor de imóveis em transição para a área de dados e tecnologia. Atualmente curso Ciência de Dados na UNINTER e possuo formação complementar em Análise de Dados pelo Google/Coursera. Trabalho com Python, Power BI e Inteligência Artificial aplicada.
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)  
-- [Portfólio completo](https://rodrigo-rrc.github.io/portfolio_c1_uninter/)
+- [Portfólio completo](https://rodrigo-rrc.github.io)
 
 ---
 
