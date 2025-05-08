@@ -9,19 +9,19 @@ Cada subpasta contém o código-fonte, documentação técnica, imagens e links 
 ## 🧠 Projetos incluídos
 
 ### 🤖 [Agente Inteligente WhatsApp](./agente-inteligente-whatsapp)
-Agente conversacional com integração ao WhatsApp via UltraMsg e FastAPI. Utiliza modelo GPT-2 para realizar atendimentos em linguagem natural, simulando um corretor inteligente.
+Criação de agente inteligente com memória e integração ao WhatsApp sem custo algum, utilizando GPT-2, FastAPI e UltraMsg.
 
-### 🧾 [Corretor Inteligente](./corretor-inteligente)
-Assistente virtual desenvolvido para atendimento imobiliário automatizado, com integração a APIs e scripts personalizados para clientes e leads.
+### 🧾 [Corretor Inteligente (em construção)](./corretor_inteligente)
+Criação de agente inteligente voltado para corretores de imóveis. Oferece respostas automatizadas, filtros de atendimento e integração futura com APIs de CRM.
 
-### 🧬 [Neurônio de Rosenblatt (Perceptron)](./neuronio-rosenblatt)
-Implementação clássica de um neurônio artificial segundo o modelo de Rosenblatt. Ideal para fins didáticos, este projeto mostra como o perceptron realiza classificações binárias.
+### 🧬 [Neurônio de Rosenblatt](./neuronio-rosenblatt)
+Implementação clássica do Perceptron de Rosenblatt. Ideal para demonstrar classificação binária com fronteira linear em Python.
 
-### 🩺 [Secretária Inteligente](./secretaria-inteligente)
-Agente projetado para clínicas médicas. Automatiza tarefas como agendamento, lembretes e respostas a perguntas frequentes via mensagem.
+### 🩺 [Secretária Inteligente (em construção)](./secretaria-inteligente)
+Assistente virtual que agenda consultas e serviços automaticamente. Foco em atendimento para clínicas, com base em regras e comandos estruturados.
 
 ### 🧪 [Agente Inteligente Básico](./agente-inteligente-basico)
-Projeto introdutório para construção de um agente simples com lógica condicional e estrutura modular. Serve como base para protótipos rápidos.
+Versão simplificada de agente inteligente, criada em Jupyter Notebook. Ótima introdução para protótipos e lógica condicional de bots.
 
 ---
 
