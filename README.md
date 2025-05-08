@@ -8,19 +8,19 @@ Cada subpasta contém o código-fonte, documentação técnica, imagens e links 
 
 ## 🧠 Projetos incluídos
 
-### 🤖 [Agente Inteligente WhatsApp](./agente-inteligente-whatsapp)
+### 🤖 [Agente Inteligente WhatsApp](https://github.com/Rodrigo-RRC/projetos_ia/tree/main/agente-inteligente-whatsapp)
 Criação de agente inteligente com memória e integração ao WhatsApp sem custo algum, utilizando GPT-2, FastAPI e UltraMsg.
 
-### 🧾 [Corretor Inteligente (em construção)](./corretor_inteligente)
+### 🧾 [Corretor Inteligente (em construção)](https://github.com/Rodrigo-RRC/projetos_ia/tree/main/corretor_inteligente)
 Criação de agente inteligente voltado para corretores de imóveis. Oferece respostas automatizadas, filtros de atendimento e integração futura com APIs de CRM.
 
-### 🧬 [Neurônio de Rosenblatt](./neuronio-rosenblatt)
+### 🧬 [Neurônio de Rosenblatt](https://github.com/Rodrigo-RRC/projetos_ia/tree/main/neuronio-rosenblatt)
 Implementação clássica do Perceptron de Rosenblatt. Ideal para demonstrar classificação binária com fronteira linear em Python.
 
-### 🩺 [Secretária Inteligente (em construção)](./secretaria-inteligente)
+### 🩺 [Secretária Inteligente (em construção)](https://github.com/Rodrigo-RRC/projetos_ia/tree/main/secretaria-inteligente)
 Assistente virtual que agenda consultas e serviços automaticamente. Foco em atendimento para clínicas, com base em regras e comandos estruturados.
 
-### 🧪 [Agente Inteligente Básico](./agente-inteligente-basico)
+### 🧪 [Agente Inteligente Básico](https://github.com/Rodrigo-RRC/projetos_ia/tree/main/agente-inteligente-basico)
 Versão simplificada de agente inteligente, criada em Jupyter Notebook. Ótima introdução para protótipos e lógica condicional de bots.
 
 ---
